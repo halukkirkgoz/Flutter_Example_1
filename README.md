@@ -23,6 +23,6 @@ This is a simple Flutter application demonstrating the use of both `StatelessWid
 Here are some screenshots of the project:
 
 ### Screenshot 1
-![Screenshot 1](assets/screenshot1.png)
+<img src="assets/screenshot1.png" alt="Screenshot 1" width="300" height="667"/>
 
 You can see how the UI looks when using the application.
